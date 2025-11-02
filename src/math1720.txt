@@ -1,0 +1,23 @@
+The power rule for differentiation of x^n is
+ x^n-1
+ nx^n
+*nx^n-1
+ nx
+
+The derivative of sine is
+ sine
+ tangent
+*cosine
+ cotangent
+
+The product rule is for derivative of fg is
+ f'g'
+ fg + f'g'
+ f'g' + f'g + fg' + fg
+*f'g + g'f
+
+The derivative of e^x is
+*e^x
+ xe^x
+ xe^x-1
+ x^e

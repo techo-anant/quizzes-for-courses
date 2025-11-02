@@ -1,0 +1,12 @@
+body
+{
+	font-family: sans-serif, Arial;
+}
+.desc
+{
+	display: none;
+}
+div:hover > .desc
+{
+	display: block;
+}
